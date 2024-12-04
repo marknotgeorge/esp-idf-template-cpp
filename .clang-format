@@ -1,0 +1,8 @@
+﻿---
+BasedOnStyle: Microsoft
+BreakBeforeBinaryOperators: All
+BreakBeforeBraces: Allman
+NamespaceIndentation: All
+UseTab: Never
+
+...
